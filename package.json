@@ -1,0 +1,26 @@
+{
+  "name": "webstorm-theme",
+  "displayName": "webstorm-code-theme",
+  "description": "webstorm theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "webstorm-darcula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webstorm-darcula-color-theme.json"
+      },
+      {
+        "label": "webstorm-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webstorm-dark-color-theme.json"
+      }
+    ]
+  }
+}
