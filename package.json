@@ -1,8 +1,15 @@
 {
   "name": "webstorm-theme",
   "displayName": "webstorm-code-theme",
-  "description": "webstorm theme",
+  "description": "webstorm theme that is based on WebStorm New UI Theme by eenaree.",
+  "publisher": "hylong",
   "version": "0.0.1",
+  "license": "LICENSE",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragon-hyl/webstorm-theme.git"
+  },
   "engines": {
     "vscode": "^1.54.0"
   },
