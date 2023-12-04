@@ -324,7 +324,11 @@
       "foreground": "#c77dbb"
     },
     "property.defaultLibrary": {
-      "foreground": "#14c4b6"
+      "foreground": "#c77dbb"
+    },
+    "method": "#56A8F5",
+    "method.defaultLibrary": {
+      "foreground": "#56A8F5"
     }
   },
   "tokenColors": [
@@ -339,23 +343,23 @@
       "name": "Block Comments",
       "scope": ["comment.block.documentation"],
       "settings": {
-        "foreground": "#5F826B",
-        "fontStyle": "italic"
+        "foreground": "#67A37C",
+        "fontStyle": ""
       }
     },
     {
       "name": "Block Comments - type",
       "scope": ["comment.block.documentation storage.type"],
       "settings": {
-        "foreground": "#68A67E",
-        "fontStyle": "italic"
+        "foreground": "#67A37C",
+        "fontStyle": ""
       }
     },
     {
       "scope": ["source.css.scss comment"],
       "settings": {
         "foreground": "#b9954e",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -380,14 +384,14 @@
         "punctuation.definition.quote.begin.markdown"
       ],
       "settings": {
-        "foreground": "#ce8e6d",
+        "foreground": "#CF8E6D",
         "fontStyle": ""
       }
     },
     {
       "scope": ["punctuation.definition.heading.markdown"],
       "settings": {
-        "foreground": "#ce8e6d",
+        "foreground": "#CF8E6D",
         "fontStyle": "italic"
       }
     },
@@ -454,7 +458,7 @@
         "string.regexp keyword.other"
       ],
       "settings": {
-        "foreground": "#2cabb8"
+        "foreground": "#2AACB8"
       }
     },
     {
@@ -468,7 +472,7 @@
         "source.vue meta.tag.custom.end.html entity.name.tag"
       ],
       "settings": {
-        "foreground": "#2ebaa3"
+        "foreground": "#2FBAA3"
       }
     },
     {
@@ -535,6 +539,13 @@
       }
     },
     {
+      "scope":["entity.name.function"],
+      "settings": {
+        "foreground": "#56A8F5",
+        "fontStyle": ""
+      }
+    },
+    {
       "scope": [
         "string.other.link",
         "constant.other.reference.link",
@@ -544,14 +555,14 @@
         "punctuation.definition.link.description.end.markdown"
       ],
       "settings": {
-        "foreground": "#57a8f5",
+        "foreground": "#56A8F5",
         "fontStyle": "underline"
       }
     },
     {
       "scope": ["markup.underline.link"],
       "settings": {
-        "foreground": "#57a8f5",
+        "foreground": "#56A8F5",
         "fontStyle": "italic"
       }
     },
@@ -562,7 +573,7 @@
         "string.other.link.description.title.markdown"
       ],
       "settings": {
-        "foreground": "#57a8f5",
+        "foreground": "#56a8f5",
         "fontStyle": ""
       }
     },

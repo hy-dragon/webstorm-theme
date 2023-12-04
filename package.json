@@ -1,9 +1,9 @@
 {
-  "name": "webstorm-theme",
+  "name": "webstorm-theme-vscode",
   "displayName": "webstorm",
   "description": "webstorm theme that is based on WebStorm New UI Theme by eenaree.",
   "publisher": "hylong",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "LICENSE",
   "icon": "icon.png",
   "repository": {
