@@ -1,9 +1,9 @@
 {
   "name": "webstorm-theme-vscode",
-  "displayName": "webstorm",
+  "displayName": "Webstorm Ui Theme For vscode",
   "description": "webstorm theme that is based on WebStorm New UI Theme by eenaree.",
   "publisher": "hylong",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "LICENSE",
   "icon": "icon.png",
   "repository": {
@@ -19,12 +19,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "webstorm-darcula",
+        "label": "Webstorm Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/webstorm-darcula-color-theme.json"
       },
       {
-        "label": "webstorm-dark",
+        "label": "Webstorm Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/webstorm-dark-color-theme.json"
       }

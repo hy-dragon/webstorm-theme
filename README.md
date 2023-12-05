@@ -1,16 +1,23 @@
-# webstorm-theme README
+# Webstorm Theme For vscode
 
-## Working with Markdown
+The extension follows the WebStorm New UI Theme extension by eenaree, but I change a little color schema.Now it It becomes more like Webstorm IDE UI.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Tips:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+~~~json
+"editor.fontSize": 16,
+"editor.lineHeight": 1.5,
+"editor.fontFamily": "'JetBrains Mono', 'DM Mono', 'Fira Code', 'Operator Mono Lig'"
+~~~
 
-## For more information
+## Webstorm Darcula
+![Webstorm-Darcula](https://cdn.jsdelivr.net/gh/dragon-hyl/webstorm-theme@master/images/Webstorm-Darcula.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Webstorm Dark
+![Webstorm-Dark](https://cdn.jsdelivr.net/gh/dragon-hyl/webstorm-theme@master/images/Webstorm-Dark.png)
 
-**Enjoy!**
+## Resources
+- [https://www.jetbrains.com/help/webstorm/new-ui.html]
+- [https://marketplace.visualstudio.com/items?itemName=eenaree.webstorm-new-dark]
+
+**enjoy !**
