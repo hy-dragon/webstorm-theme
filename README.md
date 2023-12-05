@@ -2,6 +2,8 @@
 
 The extension follows the WebStorm New UI Theme extension by eenaree, but I change a little color schema.Now it It becomes more like Webstorm IDE UI.
 
++ the official website of Webstorm: [[WebStorm: The Smartest JavaScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)]
+
 ## Tips:
 
 ~~~json
