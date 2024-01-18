@@ -1,0 +1,22 @@
+"rules": {
+  "class": "#BCBEC3",
+  "function": "#56A8F5",
+  "method": "#56A8F5",
+  "decorator": "#B3AE60",
+  "parameter": "#BCBEC3",
+  "property": "#C77DBB",
+  "type": "#BCBEC3",
+  "typeParameter": "#CF8E6D",
+  "number": "#2AACB8",
+  "string": "#6AAB73",
+  "keyword": "#CF8E6D",
+  "comment": "#7A7E85",
+  "label": "#BCBEC3",
+  "enum": "#BCBEC3",
+  "enumMember": "#C77DBB",
+  "interface": "#BCBEC3",
+  "variable": "#a9b7c5",
+  "namespace": "#BCBEC3",
+  "operator": "#BCBEC3",
+  "variableParameter": "#C77DBB"
+}

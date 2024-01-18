@@ -282,51 +282,56 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "namespace": {
-      "foreground": "#9876AA",
+      "foreground": "#bcbec3",
       "fontStyle": "italic"
     },
-    "variable": {
-      "foreground": "#a9b7c5"
-    },
+    "variable": "#a9b7c5",
+    "variable.local.readonly": "#a9b7c5",
     "variable.defaultLibrary": {
       "foreground": "#9876AA",
       "fontStyle": "italic"
     },
-    "parameter": {
-      "foreground": "#bcbec3"
-    },
-    "typeParameter": {
-      "foreground": "#507874"
-    },
-    "type": {
-      "foreground": "#bcbec3"
-    },
+    "parameter": "#9876AA",
+    "parameter.declaration": "#9876AA",
+    "type": "#bcbec3",
+    "typeParameter": "#507874",
     "type.defaultLibrary": {
       "fontStyle": "italic"
     },
-    "interface": {
-      "foreground": "#bcbec3"
-    },
+    "interface": "#bcbec3",
+    "interface.decorator": "#bcbec3",
     "interface.defaultLibrary": {
       "fontStyle": "italic"
     },
-    "class": {
-      "foreground": "#bcbec3"
-    },
+    "class": "#bcbec3",
+    "class.declaration": "#bcbec3",
     "class.defaultLibrary": {
       "foreground": "#FFC66D",
       "fontStyle": ""
     },
-    "property": {
-      "foreground": "#9876AA"
-    },
+    "property": "#9876AA",
+    "property.declaration": "#9876AA",
     "property.defaultLibrary": {
       "foreground": "#9876AA"
     },
     "method": "#FFC66D",
     "method.defaultLibrary": {
       "foreground": "#FFC66D"
-    }
+    },
+    "method.declaration": "#FFC66D",
+    "comment": "#7A7E85",
+    "enum": "#BCBEC3",
+    "enumMember": "#9876AA",
+    "label": "#BCBEC3",
+    "number": "#6897BB",
+    "keyword": "#CC7832",
+    "operator": "#BCBEC3",
+    "function": "#FFC66D",
+    "function.declaration": "#FFC66D",
+    "function.readonly": "#FFC66D",
+    "function.declaration.readonly": "#FFC66D",
+    "decorator": "#BBB529",
+    "decorator.declaration": "#BBB529",
   },
   "tokenColors": [
     {
@@ -636,7 +641,7 @@
       }
     },
     {
-      "scope":["entity.name.function"],
+      "scope": ["entity.name.function"],
       "settings": {
         "foreground": "#FFC66D",
         "fontStyle": ""

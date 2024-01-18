@@ -3,12 +3,12 @@
   "displayName": "Webstorm Ui Theme For vscode",
   "description": "webstorm theme that is based on WebStorm New UI Theme by eenaree.",
   "publisher": "hylong",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "LICENSE",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dragon-hyl/webstorm-theme.git"
+    "url": "https://github.com/hy-dragon/webstorm-theme"
   },
   "engines": {
     "vscode": "^1.54.0"
