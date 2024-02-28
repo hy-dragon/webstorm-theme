@@ -9,7 +9,7 @@ The extension follows the WebStorm New UI Theme extension by eenaree, but I chan
 ~~~json
 "editor.fontSize": 16,
 "editor.lineHeight": 1.5,
-"editor.fontFamily": "'JetBrains Mono', 'DM Mono', 'Fira Code', 'Operator Mono Lig'"
+"editor.fontFamily": "'JetBrains Mono', 'SF Mono', 'Fira Code', 'Operator Mono Lig'"
 ~~~
 
 ## Webstorm Darcula

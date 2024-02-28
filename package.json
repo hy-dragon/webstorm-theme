@@ -3,7 +3,7 @@
   "displayName": "Webstorm Ui Theme For vscode",
   "description": "webstorm theme that is based on WebStorm New UI Theme by eenaree.",
   "publisher": "hylong",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "LICENSE",
   "icon": "icon.png",
   "repository": {
@@ -27,6 +27,11 @@
         "label": "Webstorm Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/webstorm-dark-color-theme.json"
+      },
+      {
+        "label": "Personal Customer Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/personal-dark-color.json"
       }
     ]
   }

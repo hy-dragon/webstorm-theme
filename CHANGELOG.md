@@ -15,3 +15,7 @@
 ## [0.0.4]
 
 - change syntax highlighting
+
+## [0.0.5]
+
+- add personal dark and change a little default color schema

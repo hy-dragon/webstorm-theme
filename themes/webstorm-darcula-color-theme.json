@@ -555,7 +555,7 @@
     {
       "scope": ["variable.other.jsdoc", "entity.name.type.instance.jsdoc"],
       "settings": {
-        "foreground": "#abadb3"
+        "foreground": "#9876AA"
       }
     },
     {
