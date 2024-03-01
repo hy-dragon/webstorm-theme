@@ -1,9 +1,12 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "colors": {
-    "foreground": "#d4d4d4",
+    "foreground": "#b9b6b6",
     "editor.background": "#282C34",
-    "editor.foreground": "#d4d4d4",
+    "editor.foreground": "#b9b6b6",
+    "editor.lineHighlightBorder": "#282C34",
+    "editor.lineHighlightBackground": "#272a30",
+    "editorCursor.foreground": "#528bff",
     "editorGutter.background": "#282C34",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb",
@@ -11,25 +14,25 @@
     "statusBar.background": "#21252B",
     "editorCodeLens.foreground": "#546e7a9f",
     "activityBar.background": "#21252B",
-    "activityBar.foreground": "#d4d4d4",
+    "activityBar.foreground": "#b9b6b6",
     "activityBar.activeBorder": "#3d8ed1",
     "activityBar.border": "#20202b",
     "menu.background": "#21252B",
     "menu.selectionBackground": "#3d8ed1",
     "menubar.selectionBackground": "#3d8ed1",
-    "menubar.selectionForeground": "#d4d4d4",
+    "menubar.selectionForeground": "#b9b6b6",
     "titleBar.activeBackground": "#21252B",
     "titleBar.border": "#20202b",
     "tab.activeBorder": "#3d8ed1",
     "tab.activeBackground": "#282C34",
-    "tab.activeForeground": "#d4d4d4",
+    "tab.activeForeground": "#b9b6b6",
     "tab.inactiveBackground": "#21252B",
     "editorGroupHeader.tabsBackground": "#21252B",
     "list.activeSelectionBackground": "#3d8ed1",
     "editor.selectionBackground": "#214283",
     "progressBar.background": "#3d8ed1",
     "list.focusBackground": "#3d8ed1",
-    "list.activeSelectionForeground": "#d4d4d4",
+    "list.activeSelectionForeground": "#b9b6b6",
     "editor.wordHighlightBackground": "#546e7a55"
   },
   "tokenColors": [
@@ -40,7 +43,7 @@
         "string meta.image.inline.markdown",
         "variable.legacy.builtin.python"
       ],
-      "settings": { "foreground": "#D4D4D4" }
+      "settings": { "foreground": "#b9b6b6" }
     },
     { "scope": "emphasis", "settings": { "fontStyle": "italic" } },
     { "scope": "strong", "settings": { "fontStyle": "bold" } },
@@ -154,19 +157,25 @@
     {
       "name": "Reset JavaScript string interpolation expression",
       "scope": ["meta.template.expression"],
-      "settings": { "foreground": "#d4d4d4" }
+      "settings": { "foreground": "#b9b6b6" }
+    },
+    {
+      "scope":["support.type.property-name",],
+      "settings": {
+        "foreground": "#b9b6b6",
+        "fontStyle": ""
+      }
     },
     {
       "scope": [
         "support.type.vendored.property-name",
-        "support.type.property-name",
         "source.css variable",
         "source.coffee.embedded"
       ],
       "settings": { "foreground": "#e15d71" }
     },
     { "scope": "keyword", "settings": { "foreground": "#c978dd" } },
-    { "scope": "keyword.operator", "settings": { "foreground": "#d4d4d4" } },
+    { "scope": "keyword.operator", "settings": { "foreground": "#b9b6b6" } },
     {
       "scope": [
         "keyword.operator.new",
@@ -205,7 +214,7 @@
         "variable.language.wildcard.java",
         "storage.modifier.package.java"
       ],
-      "settings": { "foreground": "#d4d4d4" }
+      "settings": { "foreground": "#b9b6b6" }
     },
     {
       "name": "this.self",
@@ -300,7 +309,7 @@
     {
       "name": "Constants and enums",
       "scope": ["variable.other.constant", "variable.other.enummember"],
-      "settings": { "foreground": "#78C2B3" }
+      "settings": { "foreground": "#b9b6b6" }
     },
     {
       "name": "Object keys, TS grammar specific",
