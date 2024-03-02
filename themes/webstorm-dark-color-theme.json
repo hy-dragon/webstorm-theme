@@ -303,11 +303,8 @@
     },
     "interface": "#bcbec3",
     "interface.decorator": "#bcbec3",
-    "interface.defaultLibrary": {
-      "fontStyle": "italic"
-    },
-    "class": "#bcbec3",
-    "class.declaration": "#bcbec3",
+    "class": "#2FBAA3",
+    "class.declaration": "#2FBAA3",
     "property": "#c77dbb",
     "property.declaration": "#c77dbb",
     "property.defaultLibrary": {

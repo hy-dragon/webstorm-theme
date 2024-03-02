@@ -300,11 +300,8 @@
     },
     "interface": "#bcbec3",
     "interface.decorator": "#bcbec3",
-    "interface.defaultLibrary": {
-      "fontStyle": "italic"
-    },
-    "class": "#bcbec3",
-    "class.declaration": "#bcbec3",
+    "class": "#26BDA4",
+    "class.declaration": "#26BDA4",
     "class.defaultLibrary": {
       "foreground": "#FFC66D",
       "fontStyle": ""
