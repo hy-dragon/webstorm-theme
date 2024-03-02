@@ -19,3 +19,7 @@
 ## [0.0.5]
 
 - add personal dark and change a little default color schema
+
+## [0.0.7]
+
+- add remove personal theme
