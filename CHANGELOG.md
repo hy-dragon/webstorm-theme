@@ -20,6 +20,7 @@
 
 - add personal dark and change a little default color schema
 
-## [0.0.7]
+## [0.0.8]
 
-- add remove personal theme
+- remove personal theme
+- change the color of the component inside the vue file
