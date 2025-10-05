@@ -28,3 +28,7 @@
 ## [0.0.9]
 
 - change syntax highlighting when you close the semanticHighlighting
+
+## [0.1.0]
+
+- change color schema

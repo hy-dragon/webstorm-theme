@@ -1,15 +1,13 @@
 # Webstorm Theme For vscode
 
-The extension follows the WebStorm New UI Theme extension by eenaree, but I change a little color schema.Now it It becomes more like Webstorm IDE UI.
-
-+ the official website of Webstorm: [[WebStorm: The Smartest JavaScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)]
+The extension follows the WebStorm New UI Theme, I change a little color schema. Now it becomes more like Webstorm IDE UI. If you like webstorm ui, you can try it.
 
 ## Tips:
 
 ~~~json
 "editor.fontSize": 16,
-"editor.lineHeight": 1.5,
-"editor.fontFamily": "'JetBrains Mono', 'SF Mono', 'Fira Code', 'Operator Mono Lig'"
+"editor.lineHeight": 2,
+"editor.fontFamily": "'Maple Mono Normal', 'JetBrains Mono', 'SF Mono',"
 ~~~
 
 ## Webstorm Darcula
@@ -20,6 +18,3 @@ The extension follows the WebStorm New UI Theme extension by eenaree, but I chan
 
 ## Resources
 - [https://www.jetbrains.com/help/webstorm/new-ui.html]
-- [https://marketplace.visualstudio.com/items?itemName=eenaree.webstorm-new-dark]
-
-**enjoy !**
