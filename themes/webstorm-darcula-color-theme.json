@@ -77,8 +77,8 @@
     "notifications.background": "#3C3F41",
     "notifications.border": "#2B2B2B",
     "notifications.foreground": "#CCCCCC",
-    "panel.background": "#1E1F22", // 编辑器终端背景色
-    "panel.border": "#2B2B2B",
+    "panel.background": "#2B2B2B", // 编辑器终端背景色
+    "panel.border": "#575757",
     "panelInput.border": "#2B2B2B",
     "panelTitle.activeBorder": "#4B6EAF",
     "panelTitle.activeForeground": "#CCCCCC",
@@ -105,7 +105,7 @@
     "sideBarSectionHeader.foreground": "#CCCCCC",
     "sideBarTitle.foreground": "#CCCCCC",
 
-    "scrollbar.shadow": "#1E1F22",
+    "scrollbar.shadow": "#2B2B2B",
     "scrollbarSlider.activeBackground": "#69696999",
     "scrollbarSlider.background": "#49494999",
     "scrollbarSlider.hoverBackground": "#69696999",
